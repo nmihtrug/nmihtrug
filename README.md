@@ -7,11 +7,6 @@
 - **Education:** Studying Artificial Intelligence at FPT University, Vietnam
 - **Interests:** Research, Machine Learning, Data Science
 
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/trung-minh-74052b287/)
-- [Email](mailto:trung.nguyenminh7804@gmail.com)
-
 ## My Stats
 
 <a href="https://github.com/TrungAzieL#gh-light-mode-only">
