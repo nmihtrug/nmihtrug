@@ -15,14 +15,14 @@
 ## My Stats
 
 <a href="https://github.com/TrungAzieL#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrungAzieL&show_icons=true&theme=github"  height = "250px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungAzieL&layout=donut&theme=github"  height = "250px">
+  <img src="https://github-readme-stats.vercel.app/api?username=TrungAzieL&show_icons=true&theme=github"  width = "550px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungAzieL&layout=donut&theme=github"  width = "550px">
 </a>
 
 
 <a href="https://github.com/TrungAzieL#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrungAzieL&show_icons=true&theme=radical" height = "250px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungAzieL&layout=donut&theme=radical"  height = "250px">
+  <img src="https://github-readme-stats.vercel.app/api?username=TrungAzieL&show_icons=true&theme=radical" width = "550px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungAzieL&layout=donut&theme=radical"  width = "550px">
 </a>
 
 
