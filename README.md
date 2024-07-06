@@ -28,4 +28,4 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TrungAzieL&theme=radical" width="100%">
 </a>
 
-### Thanks for visiting my GitHub profile!
+### <p align="center">Thanks for visiting my GitHub profile!</p>
