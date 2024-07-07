@@ -10,12 +10,12 @@
 ## My Stats
 <p align="center">
   <a href="https://github.com/TrungAzieL#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=TrungAzieL&show_icons=true&theme=github"  width = "560px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungAzieL&layout=donut&theme=github"  width = "450px">
+    <img src="https://github-readme-stats.vercel.app/api?username=TrungAzieL&show_icons=true&theme=github&hide=contribs"  width = "560px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungAzieL&layout=compact&theme=github"  width = "450px">
   </a>
   <a href="https://github.com/TrungAzieL#gh-dark-mode-only"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=TrungAzieL&show_icons=true&theme=radical" width = "560px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungAzieL&layout=donut&theme=radical"  width = "450px">
+    <img src="https://github-readme-stats.vercel.app/api?username=TrungAzieL&show_icons=true&theme=radical&hide=contribs" width = "560px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungAzieL&layout=compact&theme=radical"  width = "450px">
   </a>
 </p>
 
