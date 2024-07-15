@@ -11,10 +11,10 @@
 
 <p align="center">
   <a href="https://github.com/TrungAzieL#gh-light-mode-only">
-    <kbd><img src="https://github-readme-stats-trungaziel.vercel.app/api?username=TrungAzieL&show_icons=true&theme=github&hide=contribs&include_all_commits=true&count_private=true&hide_border" width = "580px"></kbd>
+    <kbd><img src="https://github-readme-stats-trungaziel.vercel.app/api?username=TrungAzieL&show_icons=true&theme=github&include_all_commits=true&count_private=true&hide_border" width = "580px"></kbd>
   </a>
   <a href="https://github.com/TrungAzieL#gh-dark-mode-only"> 
-    <kbd><img src="https://github-readme-stats-trungaziel.vercel.app/api?username=TrungAzieL&show_icons=true&theme=radical&hide=contribs&include_all_commits=true&count_private=true&hide_border=true" width = "580px"></kbd>
+    <kbd><img src="https://github-readme-stats-trungaziel.vercel.app/api?username=TrungAzieL&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" width = "580px"></kbd>
   </a>
 </p>
 
