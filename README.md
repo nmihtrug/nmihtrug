@@ -50,10 +50,10 @@
 ## Contribution Graph
 
 <a href="https://github.com/TrungAzieL#gh-light-mode-only">
-  <img src="http://github-profile-summary-cards-trungaziel.vercel.app/api/cards/profile-details?username=TrungAzieL&theme=github" width="100%">
+  <kbd><img src="http://github-profile-summary-cards-trungaziel.vercel.app/api/cards/profile-details?username=TrungAzieL&theme=github" width="100%"></kbd>
 </a>
 <a href="https://github.com/TrungAzieL#gh-dark-mode-only">
-  <img src="http://github-profile-summary-cards-trungaziel.vercel.app/api/cards/profile-details?username=TrungAzieL&theme=radical" width="100%">
+  <kbd><img src="http://github-profile-summary-cards-trungaziel.vercel.app/api/cards/profile-details?username=TrungAzieL&theme=radical" width="100%"></kbd>
 </a>
 
 ### <p align="center">Thanks for visiting my GitHub profile!</p>
