@@ -49,10 +49,10 @@
 
 ## Contribution Graph
 
-<a href="https://github.com/TrungAzieL#gh-light-mode-only">
+<a href="https://github.com/nmihtrug#gh-light-mode-only">
   <img src="http://github-profile-summary-cards-nmihtrug.vercel.app/api/cards/profile-details?username=nmihtrug&theme=github" width="100%">
 </a>
-<a href="https://github.com/TrungAzieL#gh-dark-mode-only">
+<a href="https://github.com/nmihtrug#gh-dark-mode-only">
   <img src="http://github-profile-summary-cards-nmihtrug.vercel.app/api/cards/profile-details?username=nmihtrug&theme=radical" width="100%">
 </a>
 
