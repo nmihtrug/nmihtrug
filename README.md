@@ -9,6 +9,9 @@
   </a>
 </p>
 
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGljeXRoY245b2pqbW1qeDBrMTR0OWZ2NzZzdXZrdW9sNXVsMG94OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cmCEsJZHYBPels360q/giphy.webp" width="300"/>
+</div>
 
 ## About Me
 
