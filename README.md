@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<div id="header" align="center">
+<div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGljeXRoY245b2pqbW1qeDBrMTR0OWZ2NzZzdXZrdW9sNXVsMG94OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cmCEsJZHYBPels360q/giphy.webp" width="300"/>
 </div>
 
@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://github.com/nmihtrug#gh-light-mode-only">
-    <kbd><img src="https://github-readme-stats-nmihtrug.vercel.app/api?username=nmihtrug&show_icons=true&theme=github&include_all_commits=true&count_private=true&hide_border" width = "580px"></kbd>
+    <kbd><img src="https://github-readme-stats-nmihtrug.vercel.app/api?username=nmihtrug&show_icons=true&theme=github&include_all_commits=true&count_private=true&hide_border=true" width = "580px"></kbd>
   </a>
   <a href="https://github.com/nmihtrug#gh-dark-mode-only"> 
     <kbd><img src="https://github-readme-stats-nmihtrug.vercel.app/api?username=nmihtrug&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" width = "580px"></kbd>
